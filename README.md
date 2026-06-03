@@ -1,5 +1,5 @@
 # Initialize-this-repository-with-a-README
-REMOTE
+LOCAL
 Quelques lignes de texte
 Bonjour
 Hello world
